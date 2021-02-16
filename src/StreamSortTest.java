@@ -23,3 +23,19 @@ public class StreamSortTest {
         System.out.println("Terminal operation finished");
     }
 }
+/*
+Console output
+
+Block of intermediate operations finished
+Map operation performed
+Map operation performed
+Map operation performed
+Map operation performed
+Sorting actually happened
+Sorting actually happened
+Sorting actually happened
+Sorting actually happened
+Sorting actually happened
+Terminal operation finished
+
+ */
